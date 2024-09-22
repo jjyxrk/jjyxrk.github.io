@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jjyxrk.github.io/sitemap.html.gz
+Sitemap: https://jjyxrk.github.io/app/sitemap.html.gz
+Sitemap: https://jjyxrk.github.io/assets/sitemap.html.gz
+Sitemap: https://jjyxrk.github.io/css/sitemap.html.gz
+Sitemap: https://jjyxrk.github.io/data/sitemap.html.gz
+Sitemap: https://jjyxrk.github.io/includes/sitemap.html.gz
+Sitemap: https://jjyxrk.github.io/item/sitemap.html.gz
+Sitemap: https://jjyxrk.github.io/src/sitemap.html.gz
